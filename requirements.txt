@@ -7,3 +7,4 @@ torch
 protobuf
 sentencepiece
 accelerate
+safetensors

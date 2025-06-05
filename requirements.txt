@@ -1,0 +1,9 @@
+pdfplumber
+faiss-cpu
+numpy
+sentence-transformers
+transformers
+torch
+protobuf
+sentencepiece
+accelerate

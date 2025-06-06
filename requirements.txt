@@ -1,0 +1,12 @@
+pdfplumber
+faiss-cpu
+numpy
+scipy
+sentence-transformers
+transformers
+torch
+sentencepiece
+accelerate
+safetensors
+protobuf
+tqdm
